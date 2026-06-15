@@ -207,10 +207,15 @@ O notebook gera visualizações em HTML e texto plano que possibilitam:
 
 ### Estrutura de Dados Estabelecida
 ✅ Todas as variáveis categóricas transformadas de códigos numéricos para descrições intuitivas
+
 ✅ Colunas derivadas criadas (Área e Cargo) para facilitar segmentação
+
 ✅ Dados duplicados removidos
+
 ✅ Valores nulos identificados e tratados
+
 ✅ Dados reorganizados por tipo para melhor compreensão
+
 ✅ Metadados estruturados (Fator-Questão) para Power BI
 
 ### Indicadores Chave
@@ -397,65 +402,13 @@ for fator, qs in questoes.items():
 - Justificativa de decisões de filtragem
 - Preparação de saídas para stakeholders
 
-### Habilidades Aplicadas
-- ✅ Python avançado
-- ✅ Pandas (DataFrames, transformações, I/O)
-- ✅ Excel (leitura e escrita de múltiplas abas)
-- ✅ Análise exploratória de dados
-- ✅ Pensamento crítico em limpeza de dados
-- ✅ Documentação técnica
-- ✅ Preparação para Business Intelligence
 
-## 🔮 Possíveis Melhorias
-
-### 1. **Análises Estatísticas Avançadas**
-- Implementar cálculos de média, mediana e desvio padrão por fator
-- Análise de correlação entre fatores organizacionais
-- Testes de significância estatística entre grupos
-
-### 2. **Visualizações Interativas**
-- Gráficos de distribuição (histogramas, box plots)
-- Análise de tendências por dimensão demográfica
-- Heatmaps de correlação entre variáveis
-- Dashboards exploratórios em plotly/dash
-
-### 3. **Segmentação e Clustering**
-- Implementar análise de clusters entre respondentes
-- Segmentação por perfil demográfico e profissional
-- Identificação de grupos com padrões similares de resposta
-
-### 4. **Análise Causal**
-- Investigar relações entre estilo de gestão e níveis de sofrimento
-- Análise do impacto do tempo na empresa sobre satisfação
-- Correlação entre fatores organizacionais e danos à saúde
-
-### 5. **Automação e Escalabilidade**
-- Criar pipeline automático de coleta e processamento
-- Implementar validações automáticas de qualidade
-- Gerar relatórios periódicos sem intervenção manual
-
-### 6. **Aprofundamento em BI**
-- Criar modelo dimensional completo no Power BI
-- Desenvolver relatórios interativos por área/cargo
-- Análises de benchmark interno (comparações entre grupos)
-
-### 7. **Tratamento Avançado de Dados**
-- Implementar imputação de valores faltantes com técnicas estatísticas
-- Detecção e tratamento de outliers
-- Validação cruzada de dados (cross-validation)
-
-### 8. **Exportação e Integração**
-- Conectar a repositórios de dados (SQL, etc.)
-- Implementar versionamento de dados processados
-- Criar API para acesso aos dados tratados
 
 ## 👤 Autor
 
-**[Seu Nome]**
+**Juliana Lourenço**
 
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- 🐙 GitHub: [github.com/seu-usuario](https://www.github.com/seu-usuario)
-- 📧 Email: seu.email@example.com
+
 
 ---
 
@@ -467,4 +420,3 @@ Este projeto representa uma análise completa de dados organizacionais usando a 
 
 ---
 
-*Desenvolvido com ❤️ para análise de clima organizacional*
